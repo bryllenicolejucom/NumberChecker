@@ -9,4 +9,4 @@ int main (){
     }else{
         printf("%d Odd Number!",number);
     }
-}
+} 
